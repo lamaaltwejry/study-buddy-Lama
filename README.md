@@ -14,3 +14,4 @@ A simple and easy-to-use Python project to manage daily tasks. I built this to h
    ```bash
    python task_manager.py
    ```
+.
